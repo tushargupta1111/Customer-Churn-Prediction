@@ -123,7 +123,7 @@ The app will open in your browser at `http://localhost:8501`
 ### Application Interface
 The Streamlit app provides an intuitive interface for entering customer details and getting instant churn predictions.
 
-![Customer Churn Prediction App Interface](Screenshots/screenshot.png)
+![Customer Churn Prediction App Interface](Screenshots/Screenshot.png)
 
 *Streamlit web application showing the input form with customer details and prediction button*
 
